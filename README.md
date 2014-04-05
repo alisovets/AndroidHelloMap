@@ -21,7 +21,8 @@ You require the following to build:
 * [This application on Google Play][1]
 
 
-## p.s. I apologize for my English
+## p.s. 
+I apologize for my English
 
 
 [1]: https://play.google.com/store/apps/details?id=alisovets.example.hellogooglemap
