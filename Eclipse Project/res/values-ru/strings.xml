@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello Map</string>
+    <string name="yes_button_caption">Да</string>
+    <string name="no_button_caption">Нет</string>
+    <string name="cancel_button_caption">Отмена</string>
+    <string name="ok_button_caption">Да</string>
+    <string name="save_short_button_caption">Сохран.</string>
+    <string name="cancel_short_button_caption">Отмен.</string>
+    <string name="description_hint">Описание</string>
+    <string name="title_hint">Заглавие маркера</string>
+    <string name="no_location_provider">Никаких провайдеров местоположения не найдено!</string>
+    <string name="failed_to_get_current_location">Не удалось определить текущее местоположение!</string>
+    <string name="use_last_known_location_quest">"Использовать последнее известное местоположение?"</string>
+    <string name="card_cannot_be_opened">Приложение не может окрыть карту! Некоторые компоненты Google Map сервисов недоступны.</string>
+    <string name="failed_to_open_map">Не удалось открыть карту!</string>
+    <string name="current_location">Текущее местоположение:</string>
+    <string name="max_distance">Максимальное удаление:</string>
+    <string name="show_on_map">Показать на карте</string>
+    <string name="determinate_location">Определить местоположение</string>
+    <string name="determinate_location_for">Определяется местоположение</string>
+    <string name="kilometer_short">км</string>
+    <string name="i_am_here">Я здесь.</string>
+    <string name="no_location_found">Местополжение не определено.</string>
+    <string name="select_distance">Выбрать расстояние</string>
+    <string name="maybe_not_actually">Может быть неактуально</string>
+    <string name="unlimited">неораничено</string>
+    <string name="no_connection_caption">Нет сетевых соединений</string>
+    <string name="check_your_conn_setting_message">Проверьте настройки сетевых соединений и попытайтесь снова.</string>
+    <string name="check_your_location_setting_message">Проверьте настроки сервисов местоаоложения и попытайтесь снова.</string>
+    <string name="change_settings_btn_caption">Настройки&#8230;</string>
+    <string name="close_application">Закрыть приложение.</string>
+    <string name="select_place">Select a place.</string>
+    <string name="delete_marker_dlg_title">Удаление маркера.</string>
+    <string name="delete_marker_dlg_question">Вы хотите удалить этот маркер?</string>
+    <string name="delete_marker_btn_title">Удалить</string>
+    <string name="edit_marker_btn_title">Изменить</string>
+    <string name="add_marker_btn_title">Добавить</string>
+    <string name="delete_marker_action_title">Удалить маркер</string>
+    <string name="edit_marker_action_title">Редактировать маркер</string>
+    <string name="add_marker_action_title">Добавить маркер</string>
+    <string name="map_type">Map type</string>
+    <string name="select_map_type">Тип карты</string>
+    <string name="about">О программе</string>
+    <string name="about_text">Этот Helloworld проект разработан с единственной целью - проверить использование некоторых возможностей сервисов местоположения и Google Map API.
+        \nДанное приложение позволяет определить ваше местоположение и посмотреть его на карте. Вы можете изменять тип карты и добавлять маркеры с описанием места. Вы можете просматривать список обозначенных маркерами мест и выбрать одно для просмотра на карте.
+        \nВы можете выбрать максимальное удаление, и видеть на карте только места, находящиеся не далее этой дистанции от вашего метоположения.  
+        \n\nПо адресу: https://github.com/alisovets/AndroidHelloMap можно посмотреть исходный код проекта. 
+        \n\nРазработчик Лисовец Александр, Ukraine, 2014.
+        \na.lisovets.android.dev@gmail.com \n</string>
+
+</resources>

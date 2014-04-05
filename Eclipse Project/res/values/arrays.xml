@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="map_type_items">
+        <item>Map</item>
+        <item>Terrain</item>
+        <item>Satellite</item>
+        <item>Hybride</item>
+    </string-array>
+    
+</resources>

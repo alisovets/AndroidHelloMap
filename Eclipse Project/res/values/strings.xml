@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello Map</string>
+    <string name="yes_button_caption">Yes</string>
+    <string name="no_button_caption">No</string>
+    <string name="cancel_button_caption">Cancel</string>
+    <string name="ok_button_caption">OK</string>
+    <string name="save_short_button_caption">Save</string>
+    <string name="cancel_short_button_caption">Cancel</string>
+    <string name="description_hint">Description</string>
+    <string name="title_hint">Marker title</string>
+    <string name="no_location_provider">No location provider found!</string>
+    <string name="failed_to_get_current_location">Failed to determine the current location!</string>
+    <string name="use_last_known_location_quest">"Do you want to use the last known location?"</string>
+    <string name="card_cannot_be_opened">The application can not open the map! Some Google Map service components are not available.</string>
+    <string name="failed_to_open_map">Filed to open the  map!</string>
+    <string name="current_location">Current location:</string>
+    <string name="max_distance">Max distance:</string>
+    <string name="show_on_map">Show on the map</string>
+    <string name="determinate_location">Determine the location</string>
+    <string name="determinate_location_for">determine the location for</string>
+    <string name="kilometer_short">km</string>
+    <string name="i_am_here">I\'m here.</string>
+    <string name="no_location_found">The location is not determined.</string>
+    <string name="select_distance">Select a distance</string>
+    <string name="maybe_not_actually">may not be actually</string>
+    <string name="unlimited">unlimited</string>
+    <string name="no_connection_caption">No network connection</string>
+    <string name="check_your_conn_setting_message">Please, check your connection settings and try again.</string>
+    <string name="check_your_location_setting_message">Please, check your location settings and try again.</string>
+    <string name="change_settings_btn_caption">Settings&#8230;</string>
+    <string name="close_application">Close the app.</string>
+    <string name="select_place">Select a place.</string>
+    <string name="delete_marker_dlg_title">Delete the marker.</string>
+    <string name="delete_marker_dlg_question">Do you want to permanently delete this marker?</string>
+    <string name="delete_marker_btn_title">Del</string>
+    <string name="edit_marker_btn_title">Edit</string>
+    <string name="add_marker_btn_title">Add</string>
+    <string name="delete_marker_action_title">Delete the marker</string>
+    <string name="edit_marker_action_title">Edit the marker</string>
+    <string name="add_marker_action_title">Add new marker</string>
+    <string name="map_type">Map type</string>
+    <string name="select_map_type">Select a map type</string>
+    <string name="about">About</string>
+    <string name="about_text">This Helloworld project is developed for the only purpose - to clarify for myself how to use of some features of location-based services and Google map API.
+        \nThe application allows you to determine your location to see it on the map. You can change the type of the map and add markers with the place description. You can view a list of the marked places to choose one and watch it on the map.
+        \nYou can choose the max distance, and see on the map only places that are not further this distance from your current location.  
+        \n\nSee https://github.com/alisovets/AndroidHelloMap for the source code. 
+        \n\nDeveloped by Alexander Lisovets, Ukraine, 2014.
+        \na.lisovets.android.dev@gmail.com 
+        \n\np.s. I apologize for my English.</string>
+
+</resources>
