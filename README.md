@@ -2,7 +2,20 @@
 
 This Helloworld project is developed for the only purpose - to clarify for myself how to use of some features of location-based services and Google map API.
 The application allows you to determine your location to see it on the map. You can change the type of the map and add markers with the place description. You can view a list of the marked places to choose one and watch it on the map.
-You can choose the max distance, and see on the map only places that are not further this distance from your current location.  
+You can choose the max distance, and see on the map only places that are not further this distance from your current location. 
+
+ Min SDK version - 7 (Android 2.1)
+
+
+![Screenshot](Screenshots/screen9.png?raw=true) . ![Screenshot](Screenshots/screen6.png?raw=true)
+
+
+![Screenshot](Screenshots/screen7.png?raw=true)  . ![Screenshot](Screenshots/screen8.png?raw=true)
+
+![Screenshot](Screenshots/screen4.png?raw=true)
+
+
+
 
 ## To build
 
